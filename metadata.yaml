@@ -1,0 +1,33 @@
+_repo: History-of-Morgan-s-Cavalry_31232
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Duke, Basil Wilson
+    birthdate: 1838
+    deathdate: 1916
+    gutenberg_agent_id: '35080'
+    url: http://www.gutenberg.org/2009/agents/35080
+    wikipedia: http://en.wikipedia.org/wiki/Basil_W._Duke
+description: General John H. Morgan's Confederate cavalry division was principally
+  composed of the 2nd, 3rd, 5th, 6th, 8th-11th Kentucky regiments and the 9th Tennessee
+  regiment.
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31232'
+  lccn: 02008537
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Morgan, John Hunt, 1825-1864'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcc 'E456'
+- !lcsh 'Confederate States of America. Army. Morgan’s Cavalry Division'
+title: History of Morgan's Cavalry
+url: http://www.gutenberg.org/ebooks/31232
